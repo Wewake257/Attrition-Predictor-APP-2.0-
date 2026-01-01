@@ -226,8 +226,10 @@ if not st.session_state.logged_in:
                 st.session_state.logged_in = True
                 st.session_state.login_time = time.time()
                 st.session_state.user = user
-                st.success("Login successful")
+                
                 log_login(user["username"], user["role"])
+
+                st.success("Login successful")
                 st.rerun()
             else:
                 st.error("Invalid credentials. Contact admin.")
@@ -334,7 +336,10 @@ st.sidebar.success(f"Logged in as {user['username']} ({user['role']})")
 st.sidebar.caption(f"🕒 Last login: {st.session_state.get('login_time_str', 'N/A')}")
 st.sidebar.caption(f"⏳ Session expires in: {remaining_minutes} minutes")
 
+
+
 if st.sidebar.button("🚪 Logout"):
+    log_logout(st.session_state.user["username"])
     for key in list(st.session_state.keys()):
         del st.session_state[key]
     st.rerun()
