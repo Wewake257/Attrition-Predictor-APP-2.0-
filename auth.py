@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-USERS_FILE = "data/users.csv"
+USERS_FILE = "users.csv"
 
 
 def authenticate_user(username: str, password: str):
