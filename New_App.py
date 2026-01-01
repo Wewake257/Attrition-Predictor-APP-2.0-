@@ -17,10 +17,10 @@ from rbac import filter_employee_data
 st.set_page_config(page_title="OrgaKnow | Retention Intelligence", layout="wide")
 
 # ---------------- GLOBAL CONSTANTS ----------------
-EMPLOYEE_FILE = "data/employees.csv"
-EXIT_FILE = "data/exit_intelligence.csv"
-RISK_CONFIG_FILE = "data/risk_config.json"
-ACTIONS_FILE = "data/attrition_actions.csv"
+EMPLOYEE_FILE = "employees.csv"
+EXIT_FILE = "exit_intelligence.csv"
+RISK_CONFIG_FILE = "risk_config.json"
+ACTIONS_FILE = "attrition_actions.csv"
 
 # ---------------- HELPER FUNCTIONS ----------------
 
