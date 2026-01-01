@@ -1,0 +1,6 @@
+EmployeeID,EmployeeName,Department,Manager,RiskScore,RiskBand,SelectedAction,ActionStatus,ManagerComment,OutcomeStatus,OutcomeDate
+E787,Tiwary,Operations,Manager_A,50.0,Medium,Career Path Discussion,Planned,can shift to OPeration to Supplychain,Pending,
+E0001,Vivek Kumar,HR,Manager_A,91.67,High,Career Path Discussion,Completed,,Left,2025-12-10
+E0014,Employee_14,Operations,Manager_A,55.0,Medium,Workload Rebalancing,Completed,work distributed,Left,2025-12-22
+E0026,Employee_26,Operations,Manager_A,70.0,High,No Action – Monitor,In Progress,,Left,2025-12-24
+E07777,Shivkaran singh rana,Marketing,Manager_A,58.33,Medium,Manager Coaching / 1:1,In Progress,,Left,2025-12-27

@@ -1,0 +1,7 @@
+username,password,role,department
+vivek,admin123,Admin,All
+tabish,admin123,Admin,All
+neha,chro123,CHRO,All
+amit,hrbp123,HRBP,HR
+rahul,hrbp123,HRBP,Sales
+rohan,manager123,Manager,Sales

@@ -1,0 +1,11 @@
+EmployeeID,ExitDate,ExitType,PrimaryExitReason,SecondaryExitReason,ActionTaken,ActionHelped,HRComment
+E1023,2024-11-15,Voluntary,Compensation,Career Growth,Yes,Partially,Employee received an external offer significantly above internal band; compensation review initiated late.
+E1047,2024-10-02,Voluntary,Manager Relationship,Workload / Burnout,Yes,No,Employee cited lack of managerial support and sustained workload pressure during exit discussion.
+E1109,2024-09-18,Voluntary,Career Growth,Role Mismatch,Yes,Partially,Internal mobility was discussed but timelines did not align with employee expectations.
+E1156,2024-08-30,Involuntary,Performance,,No,Not Applicable,Performance improvement plan did not meet required benchmarks.
+E1184,2024-11-01,Voluntary,Workload / Burnout,Work Culture,Yes,No,Employee reported prolonged high workload and limited team capacity despite manager intervention.
+E1210,2024-10-20,Contract End,External Opportunity,,No,Not Applicable,Contract concluded; employee opted for a permanent role externally.
+E1255,2024-09-05,Voluntary,Compensation,External Opportunity,Yes,No,Market correction led to offer mismatch beyond internal revision limits.
+E1298,2024-11-10,Voluntary,Work Culture,Manager Relationship,Yes,Partially,Team dynamics improved post-feedback but trust deficit remained.
+E0026,2025-12-24,Contract End,Role Mismatch,,No,Not Applicable,
+E07777,2025-12-27,Involuntary,Personal Reasons,Workload / Burnout,Yes,Partially,
