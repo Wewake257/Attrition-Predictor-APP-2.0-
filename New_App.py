@@ -227,6 +227,7 @@ if not st.session_state.logged_in:
                 st.session_state.login_time = time.time()
                 st.session_state.user = user
                 st.success("Login successful")
+                log_login(user["username"], user["role"])
                 st.rerun()
             else:
                 st.error("Invalid credentials. Contact admin.")
