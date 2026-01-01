@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-AUDIT_FILE = "data/login_audit.csv"
+AUDIT_FILE = "login_audit.csv"
 
 def log_login(username, role):
     entry = {
