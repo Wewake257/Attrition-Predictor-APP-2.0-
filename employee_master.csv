@@ -1,5 +1,5 @@
 EmployeeID,Name,Department,Role,Tenure,JobSatisfaction,WorkLifeBalance,ManagerSupport,CareerGrowth,StressLevel,AttritionRisk,RiskBand
-EMP00001,Neha,Engineering,Software Engineer,1.9,5,3,5,5,2,27.0,Low
+EMP00001,Nehaa,Engineering,Software Engineer,1.9,5,3,5,5,2,27.0,Low
 EMP00002,Vivaan,Finance,Accountant,0.7,3,3,5,4,3,42.0,Medium
 EMP00003,Vihaan,Operations,Operations Executive,0.1,2,4,2,4,5,61.0,Medium
 EMP00004,Riya,IT,IT Support,3.8,2,5,4,1,1,50.0,Medium
