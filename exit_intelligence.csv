@@ -1,1 +1,501 @@
 EmployeeID,ExitDate,ExitType,PrimaryExitReason,SecondaryExitReason,ActionTaken,ActionHelped,HRComment
+EMP14205,2025-07-11,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP03541,2025-06-12,Voluntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP09320,2025-02-03,Voluntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP14643,2025-10-19,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP12117,2025-10-19,Involuntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP13653,2025-07-06,Voluntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP01159,2025-07-01,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP04527,2025-03-03,Involuntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP02027,2025-02-01,Voluntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP05247,2025-06-05,Voluntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP08182,2025-11-27,Voluntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP05154,2025-06-18,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP11242,2025-03-17,Voluntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP00037,2025-02-28,Voluntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP06199,2025-01-25,Voluntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP07254,2025-08-08,Involuntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP12072,2025-02-14,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP01580,2026-01-07,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP00907,2025-11-05,Involuntary,Career Growth,Long Hours,Retention Bonus,No,Exit interview completed
+EMP02778,2025-02-13,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP09684,2025-03-20,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP13451,2025-02-08,Voluntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP09022,2025-06-07,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP14158,2025-08-31,Voluntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP10268,2025-08-22,Involuntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP14225,2025-11-13,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP02571,2025-10-19,Voluntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP05762,2025-10-30,Involuntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP07734,2025-09-20,Involuntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP03715,2025-06-21,Involuntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP02396,2025-07-27,Voluntary,Career Growth,Long Hours,None,No,Exit interview completed
+EMP09854,2025-09-14,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP01184,2025-10-06,Involuntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP02752,2025-12-24,Involuntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP10255,2025-07-16,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP05906,2025-04-30,Involuntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP10435,2025-08-08,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP05024,2025-12-23,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP13194,2025-12-04,Voluntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP08025,2025-04-01,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP14889,2025-08-12,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP00503,2025-05-21,Involuntary,Compensation,Relocation,None,No,Exit interview completed
+EMP05632,2025-04-16,Involuntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP03700,2025-12-03,Involuntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP12759,2025-10-23,Involuntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP14212,2025-07-14,Involuntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP07934,2025-06-27,Involuntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP13327,2025-05-20,Involuntary,Career Growth,Long Hours,Retention Bonus,No,Exit interview completed
+EMP09503,2025-08-03,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP04013,2025-05-26,Involuntary,Work Pressure,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP10541,2025-05-17,Voluntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP07287,2025-04-14,Voluntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP14447,2025-08-02,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP07984,2025-04-21,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP06616,2025-01-27,Involuntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP06299,2025-10-12,Involuntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP14000,2025-07-03,Involuntary,Career Growth,Long Hours,None,No,Exit interview completed
+EMP13198,2025-02-22,Voluntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP05445,2025-04-10,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP13746,2025-05-12,Involuntary,Compensation,Relocation,None,No,Exit interview completed
+EMP14859,2025-04-26,Voluntary,Compensation,Relocation,None,No,Exit interview completed
+EMP08340,2025-06-19,Voluntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP13458,2025-08-25,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP08048,2025-07-20,Involuntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP04510,2025-05-16,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP10553,2025-10-31,Involuntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP07568,2025-01-19,Involuntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP12933,2025-03-11,Involuntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP12623,2025-06-05,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP00949,2025-05-09,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP00412,2025-10-23,Involuntary,Compensation,Relocation,None,No,Exit interview completed
+EMP07449,2026-01-09,Involuntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP03150,2025-03-10,Voluntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP11278,2025-08-24,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP12343,2025-12-13,Voluntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP02171,2025-08-10,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP11643,2025-07-07,Involuntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP00241,2025-05-05,Involuntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP09603,2025-07-14,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP03578,2025-10-15,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP08602,2025-01-30,Involuntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP12478,2025-03-29,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP12560,2025-07-04,Involuntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP13631,2025-09-20,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP12135,2025-05-06,Voluntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP04075,2025-12-23,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP05188,2025-09-24,Involuntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP07795,2025-07-02,Voluntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP12985,2025-07-05,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP02851,2025-10-15,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP06088,2025-09-20,Voluntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP10882,2025-10-31,Involuntary,Work Pressure,Long Hours,None,No,Exit interview completed
+EMP13336,2025-05-24,Voluntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP04198,2025-03-16,Voluntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP03883,2025-08-09,Involuntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP09207,2025-02-05,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP03142,2025-03-06,Voluntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP09062,2025-12-20,Voluntary,Compensation,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP07533,2025-09-24,Involuntary,Career Growth,Long Hours,Retention Bonus,No,Exit interview completed
+EMP08098,2025-03-08,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP12161,2025-10-29,Voluntary,Career Growth,Relocation,Retention Bonus,No,Exit interview completed
+EMP12589,2025-07-02,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP00072,2025-04-25,Voluntary,Work Pressure,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP04784,2025-08-24,Involuntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP09254,2025-07-16,Voluntary,Work Pressure,Long Hours,None,No,Exit interview completed
+EMP11062,2025-09-19,Involuntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP04302,2025-08-12,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP00315,2025-02-25,Voluntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP06789,2025-10-21,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP03554,2025-01-16,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP11580,2025-10-13,Involuntary,Work Pressure,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP14745,2025-12-02,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP03003,2026-01-06,Involuntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP05471,2025-11-26,Involuntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP04052,2025-08-04,Involuntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP14536,2026-01-03,Involuntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP10865,2025-09-04,Voluntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP02350,2025-02-22,Voluntary,Compensation,Relocation,None,No,Exit interview completed
+EMP06249,2025-11-11,Involuntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP14134,2025-11-28,Voluntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP00062,2025-12-05,Voluntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP09355,2025-01-17,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP02050,2025-09-30,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP08989,2025-01-29,Involuntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP05464,2025-09-10,Involuntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP11392,2025-02-20,Voluntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP02789,2025-05-13,Involuntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP10155,2025-10-30,Voluntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP03049,2025-07-03,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP14776,2025-08-17,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP01413,2025-02-04,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP09220,2025-11-04,Voluntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP09247,2025-09-19,Involuntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP02209,2025-12-13,Voluntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP08841,2025-12-25,Voluntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP13092,2025-02-20,Involuntary,Career Growth,Manager Conflict,None,Yes,Exit interview completed
+EMP10561,2025-06-24,Involuntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP12250,2025-03-12,Voluntary,Work Pressure,Long Hours,None,No,Exit interview completed
+EMP05623,2025-02-23,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP05725,2025-01-19,Voluntary,Compensation,Relocation,None,Yes,Exit interview completed
+EMP05513,2025-08-21,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP10853,2025-09-11,Involuntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP01352,2025-08-17,Voluntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP14193,2025-02-09,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP09497,2025-11-06,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP07250,2025-03-14,Voluntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP04677,2026-01-07,Voluntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP14172,2025-01-20,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP00314,2025-08-07,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP03305,2025-09-08,Voluntary,Work Pressure,Long Hours,None,No,Exit interview completed
+EMP07483,2025-04-11,Involuntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP00279,2025-03-30,Involuntary,Career Growth,Relocation,Retention Bonus,No,Exit interview completed
+EMP10516,2025-03-05,Voluntary,Work Pressure,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP05558,2025-04-24,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP10421,2025-04-17,Voluntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP08590,2025-11-29,Involuntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP06487,2025-01-15,Involuntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP12520,2025-06-02,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP02492,2025-04-08,Voluntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP02109,2025-06-22,Voluntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP03187,2025-09-20,Voluntary,Compensation,Relocation,None,Yes,Exit interview completed
+EMP01539,2025-07-03,Involuntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP06459,2025-02-15,Involuntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP02966,2025-02-21,Voluntary,Compensation,Relocation,None,No,Exit interview completed
+EMP03129,2025-11-28,Voluntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP03022,2025-03-03,Involuntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP14978,2025-02-24,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP06809,2025-05-28,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP00601,2025-10-03,Voluntary,Compensation,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP11456,2025-09-20,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP09621,2025-03-15,Voluntary,Career Growth,Long Hours,None,No,Exit interview completed
+EMP05499,2025-10-12,Voluntary,Career Growth,Relocation,Retention Bonus,No,Exit interview completed
+EMP13586,2025-05-14,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP02568,2025-10-11,Involuntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP12654,2025-07-19,Voluntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP02449,2025-09-14,Voluntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP13640,2025-07-19,Involuntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP00141,2025-09-15,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP10036,2025-09-10,Involuntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP14437,2026-01-14,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP00463,2025-03-25,Involuntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP04800,2025-12-02,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP07876,2025-06-12,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP01642,2026-01-03,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP07591,2025-07-29,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP06556,2025-05-03,Involuntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP10267,2025-07-02,Voluntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP05202,2025-08-30,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP01725,2025-07-09,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP01406,2025-04-06,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP08124,2025-02-04,Voluntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP08428,2025-03-07,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP13660,2025-09-15,Involuntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP03529,2025-07-17,Voluntary,Compensation,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP04153,2025-10-29,Involuntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP06227,2025-10-30,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP06055,2025-03-12,Involuntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP10473,2025-08-28,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP02269,2025-07-21,Voluntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP12662,2026-01-13,Involuntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP08918,2025-08-16,Involuntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP09133,2025-09-08,Voluntary,Work Pressure,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP06212,2025-02-27,Involuntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP05226,2025-09-19,Voluntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP11432,2025-01-18,Involuntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP01014,2025-11-29,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP04825,2026-01-09,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP00953,2025-07-03,Involuntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP02641,2025-03-11,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP14046,2025-09-02,Involuntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP05504,2025-08-15,Voluntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP03394,2025-05-28,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP13357,2025-06-16,Voluntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP09099,2025-10-16,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP08021,2025-10-09,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP02733,2025-11-01,Involuntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP02002,2025-10-29,Involuntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP05555,2025-05-10,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP12720,2025-04-01,Voluntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP04554,2025-04-12,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP06582,2025-10-16,Voluntary,Career Growth,Relocation,Retention Bonus,No,Exit interview completed
+EMP03890,2025-10-15,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP05193,2025-05-29,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP00593,2025-01-15,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP06895,2025-01-20,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP05733,2025-04-27,Voluntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP03436,2025-09-26,Voluntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP10915,2025-11-15,Involuntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP02102,2025-10-24,Voluntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP07586,2025-04-19,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP04496,2025-02-18,Voluntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP05358,2025-12-17,Voluntary,Compensation,Relocation,None,No,Exit interview completed
+EMP08426,2025-07-11,Voluntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP06831,2025-04-26,Voluntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP13013,2025-11-21,Voluntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP12247,2025-07-12,Involuntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP10452,2025-08-29,Voluntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP01639,2025-08-03,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP00635,2025-12-08,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP03248,2025-03-20,Involuntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP12871,2025-03-12,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP08487,2025-06-13,Voluntary,Work Pressure,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP12901,2025-11-06,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP06375,2025-06-17,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP01602,2025-06-22,Involuntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP01835,2025-08-04,Voluntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP03045,2025-02-06,Involuntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP14260,2025-02-16,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP08958,2025-08-30,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP01646,2025-12-02,Voluntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP11972,2025-07-30,Voluntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP10066,2025-08-12,Voluntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP10344,2025-05-18,Involuntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP01722,2025-02-27,Voluntary,Career Growth,Manager Conflict,None,Yes,Exit interview completed
+EMP08421,2025-05-22,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP04255,2025-11-23,Voluntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP14125,2025-01-19,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP13180,2025-03-10,Voluntary,Career Growth,Relocation,Retention Bonus,No,Exit interview completed
+EMP01429,2025-02-03,Involuntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP06681,2025-10-21,Involuntary,Career Growth,Long Hours,None,Yes,Exit interview completed
+EMP08230,2025-07-10,Involuntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP11704,2025-01-30,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP03722,2025-05-26,Voluntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP05000,2025-03-17,Voluntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP10917,2025-10-08,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP02072,2025-05-16,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP08128,2025-12-25,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP10679,2025-11-22,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP00875,2025-10-09,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP07501,2025-11-27,Voluntary,Work Pressure,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP03601,2025-08-23,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP07149,2025-04-01,Voluntary,Career Growth,Long Hours,None,No,Exit interview completed
+EMP03575,2026-01-12,Voluntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP03465,2025-11-06,Involuntary,Career Growth,Long Hours,None,No,Exit interview completed
+EMP01123,2025-08-04,Voluntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP09166,2025-06-09,Involuntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP05353,2026-01-01,Voluntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP02776,2025-09-19,Involuntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP12138,2025-03-28,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP05293,2025-11-08,Voluntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP14849,2025-06-29,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP07824,2025-10-17,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP10291,2025-07-22,Involuntary,Work Pressure,Long Hours,None,No,Exit interview completed
+EMP10045,2025-11-20,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP13047,2025-05-19,Voluntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP02636,2025-06-13,Voluntary,Career Growth,Relocation,Retention Bonus,No,Exit interview completed
+EMP09291,2025-03-22,Involuntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP10252,2025-05-06,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP11998,2025-07-24,Voluntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP11343,2025-01-27,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP07950,2025-11-01,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP01805,2025-08-12,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP01915,2025-06-04,Involuntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP14506,2025-07-12,Involuntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP09664,2025-01-20,Involuntary,Career Growth,Manager Conflict,None,Yes,Exit interview completed
+EMP05922,2025-10-13,Voluntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP08978,2025-11-01,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP14198,2025-05-04,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP09890,2025-06-04,Voluntary,Compensation,Relocation,None,No,Exit interview completed
+EMP13804,2025-01-25,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP14200,2025-05-25,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP07709,2025-11-06,Involuntary,Career Growth,Long Hours,Retention Bonus,No,Exit interview completed
+EMP05986,2025-02-17,Involuntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP08645,2025-10-11,Involuntary,Career Growth,Manager Conflict,None,Yes,Exit interview completed
+EMP01636,2025-05-26,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP00882,2025-01-27,Involuntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP03580,2025-09-30,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP12253,2025-10-04,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP10881,2025-10-19,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP12812,2025-09-30,Voluntary,Work Pressure,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP02689,2025-11-30,Voluntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP05968,2025-12-21,Voluntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP03078,2025-06-04,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP06204,2025-08-25,Involuntary,Compensation,Relocation,None,Yes,Exit interview completed
+EMP12046,2025-11-03,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP04959,2025-12-29,Involuntary,Compensation,Relocation,None,No,Exit interview completed
+EMP09918,2025-11-29,Involuntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP09811,2025-07-13,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP08986,2025-10-29,Involuntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP07125,2026-01-13,Voluntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP06836,2025-12-07,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP12183,2025-09-08,Involuntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP06617,2025-09-02,Involuntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP03390,2025-05-01,Voluntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP08057,2025-03-18,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP14019,2025-09-18,Involuntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP01457,2025-08-07,Involuntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP06663,2025-11-20,Voluntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP07429,2025-06-28,Involuntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP07107,2025-02-24,Voluntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP01414,2025-11-20,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP10690,2025-05-08,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP02799,2025-06-04,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP03447,2025-11-04,Involuntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP05075,2025-10-24,Involuntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP05437,2025-07-07,Involuntary,Compensation,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP12289,2025-05-28,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP10104,2025-08-01,Involuntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP14107,2025-09-21,Involuntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP12458,2025-08-19,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP03406,2025-10-07,Voluntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP14561,2025-02-04,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP10242,2025-07-02,Voluntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP10846,2025-11-20,Voluntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP14241,2025-09-27,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP02303,2025-06-29,Involuntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP11978,2025-10-02,Voluntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP13785,2025-01-20,Involuntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP08853,2025-10-07,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP13301,2025-05-08,Voluntary,Compensation,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP03042,2025-02-15,Involuntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP13143,2025-03-17,Involuntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP05050,2025-08-19,Involuntary,Work Pressure,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP06696,2026-01-10,Involuntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP12764,2025-08-06,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP05339,2025-12-30,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP11987,2025-05-21,Voluntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP14642,2025-10-08,Voluntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP14465,2025-10-22,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP09673,2026-01-02,Involuntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP11605,2025-03-02,Involuntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP11027,2025-11-06,Voluntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP07406,2025-11-09,Involuntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP09044,2025-08-10,Involuntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP00699,2025-03-20,Involuntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP03672,2025-11-13,Involuntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP00898,2025-09-20,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP00137,2025-12-25,Voluntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP13106,2025-03-07,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP06325,2025-04-29,Involuntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP13676,2025-10-09,Voluntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP03489,2025-05-15,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP06025,2025-06-17,Voluntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP06404,2025-06-06,Voluntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP00567,2025-10-13,Voluntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP06014,2025-11-02,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP06725,2025-01-22,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP13170,2025-07-01,Involuntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP02770,2026-01-07,Involuntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP05956,2026-01-03,Involuntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP14737,2025-11-19,Voluntary,Career Growth,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP07781,2025-10-10,Involuntary,Work Pressure,Long Hours,Retention Bonus,No,Exit interview completed
+EMP02226,2025-12-22,Involuntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP07752,2025-07-26,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP06172,2025-05-02,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP04433,2025-09-29,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP12846,2025-04-09,Involuntary,Work Pressure,Manager Conflict,None,Yes,Exit interview completed
+EMP03314,2025-05-29,Involuntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP14364,2025-10-24,Involuntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP06865,2025-08-29,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP02812,2025-11-07,Involuntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP11158,2025-05-28,Voluntary,Work Pressure,Relocation,None,No,Exit interview completed
+EMP07113,2025-11-17,Involuntary,Compensation,Relocation,None,No,Exit interview completed
+EMP04628,2026-01-10,Voluntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP08759,2025-06-18,Involuntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP09847,2025-04-29,Involuntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP14431,2025-03-09,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP08369,2026-01-11,Voluntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP01916,2025-05-20,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP12106,2025-01-26,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP00788,2025-03-16,Involuntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP09030,2025-08-27,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP02059,2025-02-24,Involuntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP06225,2025-06-29,Involuntary,Compensation,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP03053,2025-09-12,Involuntary,Compensation,Relocation,None,Yes,Exit interview completed
+EMP11412,2025-08-07,Involuntary,Compensation,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP00536,2025-06-13,Involuntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP09415,2025-12-29,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP11154,2026-01-02,Voluntary,Career Growth,Long Hours,Retention Bonus,No,Exit interview completed
+EMP02320,2025-06-25,Involuntary,Compensation,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP03857,2025-03-01,Voluntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP05665,2025-02-25,Voluntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP09853,2025-01-26,Involuntary,Compensation,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP04810,2025-02-01,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP08023,2025-06-12,Voluntary,Work Pressure,Relocation,Retention Bonus,No,Exit interview completed
+EMP07838,2025-12-06,Voluntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP01641,2025-11-19,Voluntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP04247,2025-09-06,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP07721,2025-12-28,Voluntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP14799,2025-07-27,Involuntary,Work Pressure,Long Hours,Career Discussion,Yes,Exit interview completed
+EMP04928,2025-07-02,Voluntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP02712,2025-05-27,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP11888,2025-08-03,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP08470,2025-03-26,Involuntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP13268,2025-09-17,Voluntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP02672,2025-08-10,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP07979,2025-07-04,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP12533,2025-10-12,Voluntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP07832,2025-08-20,Involuntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP06537,2025-12-27,Voluntary,Career Growth,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP00680,2025-07-27,Involuntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP01884,2025-02-25,Involuntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP02673,2025-12-25,Involuntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP02077,2025-09-15,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP08039,2025-09-04,Involuntary,Work Pressure,Relocation,Career Discussion,Yes,Exit interview completed
+EMP12722,2025-09-28,Involuntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP04006,2025-07-21,Involuntary,Career Growth,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP07631,2025-10-29,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP00642,2025-02-05,Involuntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP02633,2025-11-17,Involuntary,Career Growth,Manager Conflict,None,Yes,Exit interview completed
+EMP08086,2025-12-01,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP14084,2025-07-04,Involuntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP05576,2025-06-17,Involuntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP11736,2025-04-06,Involuntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP03396,2025-02-23,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP13546,2025-06-30,Voluntary,Work Pressure,Manager Conflict,None,No,Exit interview completed
+EMP00610,2025-06-26,Involuntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP07815,2025-02-24,Involuntary,Compensation,Long Hours,None,Yes,Exit interview completed
+EMP04768,2025-12-02,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP01727,2025-04-05,Voluntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP07382,2025-01-31,Involuntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP14216,2025-03-12,Voluntary,Compensation,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP14673,2025-02-22,Voluntary,Career Growth,Long Hours,Retention Bonus,No,Exit interview completed
+EMP12038,2025-03-28,Involuntary,Career Growth,Relocation,None,Yes,Exit interview completed
+EMP12020,2025-06-28,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP06863,2025-02-19,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP14585,2025-06-06,Voluntary,Compensation,Relocation,Career Discussion,No,Exit interview completed
+EMP12735,2025-11-03,Voluntary,Work Pressure,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP14954,2025-05-13,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP05920,2025-08-10,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP14603,2025-06-14,Involuntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP03060,2025-08-01,Voluntary,Work Pressure,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP01985,2025-04-28,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP07547,2025-08-21,Voluntary,Compensation,Long Hours,Retention Bonus,No,Exit interview completed
+EMP07308,2025-10-02,Voluntary,Career Growth,Relocation,Career Discussion,No,Exit interview completed
+EMP06201,2025-01-25,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP01449,2025-12-03,Voluntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP04885,2025-10-29,Voluntary,Career Growth,Manager Conflict,None,Yes,Exit interview completed
+EMP02475,2025-07-06,Involuntary,Career Growth,Manager Conflict,None,No,Exit interview completed
+EMP12643,2025-08-09,Involuntary,Work Pressure,Relocation,Career Discussion,No,Exit interview completed
+EMP10880,2025-11-27,Voluntary,Career Growth,Relocation,Career Discussion,Yes,Exit interview completed
+EMP01312,2025-08-15,Involuntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP11530,2025-04-22,Voluntary,Compensation,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP05714,2025-04-21,Involuntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP09530,2025-06-29,Voluntary,Compensation,Manager Conflict,None,Yes,Exit interview completed
+EMP11777,2025-04-25,Voluntary,Compensation,Long Hours,None,No,Exit interview completed
+EMP11534,2025-03-31,Voluntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP11556,2025-11-08,Voluntary,Compensation,Manager Conflict,Retention Bonus,Yes,Exit interview completed
+EMP10536,2025-07-16,Involuntary,Compensation,Manager Conflict,None,No,Exit interview completed
+EMP03032,2025-01-31,Voluntary,Compensation,Long Hours,Retention Bonus,Yes,Exit interview completed
+EMP00483,2025-04-26,Involuntary,Career Growth,Long Hours,None,Yes,Exit interview completed
+EMP00768,2025-06-16,Voluntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP02771,2025-06-13,Voluntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP04376,2025-08-06,Involuntary,Career Growth,Manager Conflict,Career Discussion,Yes,Exit interview completed
+EMP12944,2025-07-30,Involuntary,Career Growth,Relocation,None,No,Exit interview completed
+EMP02022,2025-04-14,Voluntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP00596,2025-04-06,Involuntary,Work Pressure,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP03135,2025-09-15,Involuntary,Work Pressure,Long Hours,None,Yes,Exit interview completed
+EMP02157,2025-03-06,Involuntary,Career Growth,Manager Conflict,Retention Bonus,No,Exit interview completed
+EMP03717,2026-01-06,Voluntary,Work Pressure,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP08324,2025-12-13,Involuntary,Work Pressure,Long Hours,Career Discussion,No,Exit interview completed
+EMP13363,2025-07-12,Voluntary,Career Growth,Relocation,Retention Bonus,Yes,Exit interview completed
+EMP14512,2025-02-12,Voluntary,Compensation,Long Hours,Career Discussion,No,Exit interview completed
+EMP01972,2025-03-12,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP03490,2025-12-26,Voluntary,Work Pressure,Relocation,None,Yes,Exit interview completed
+EMP14892,2025-12-02,Involuntary,Compensation,Relocation,Career Discussion,Yes,Exit interview completed
+EMP05386,2025-11-29,Involuntary,Career Growth,Long Hours,Career Discussion,No,Exit interview completed
+EMP08848,2025-03-05,Voluntary,Compensation,Manager Conflict,Career Discussion,No,Exit interview completed
+EMP09271,2025-03-30,Voluntary,Compensation,Relocation,Retention Bonus,No,Exit interview completed
+EMP02411,2025-02-15,Voluntary,Career Growth,Long Hours,Retention Bonus,Yes,Exit interview completed
